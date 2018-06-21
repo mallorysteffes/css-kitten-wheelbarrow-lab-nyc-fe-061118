@@ -34,8 +34,8 @@
   left: 455px;
 }
 
-<img src="images/kitty-5.png" alt="Kitty 5">
-img["kitty-5"] {
+
+img["all"] {
   position: absolute;
   z-index: 3;
   top: 217px;
